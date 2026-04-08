@@ -1,1 +1,1 @@
-# Vegetable-Image-Classification
+# Vegetable-Classification-CNN
